@@ -2,7 +2,7 @@
   "posts":[
   
   {
-      "id": "how-to-do-seo",
+      "id": 1,
       "slug":"how-to-do-seo",
       "title": "How To Do Seo ?",
       "image":{
@@ -15,7 +15,7 @@
 
     },
     {
-      "id": "what-is-technology",
+      "id": 2,
       "slug":"what-is-technology",
       "title": "What is technology ?",
       "image":{
