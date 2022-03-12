@@ -4,7 +4,8 @@
   {
       "id": "how-to-do-seo",
       "slug":"how-to-do-seo",
-      "title": "How To Do Seo Currectly ? - Purple Glib",
+      "title": "How To Do Seo Currectly ?",
+      "metatitle": "How To Do Seo Currectly ? - Purple Glib",
       "image":{
           "url":"https://i.pinimg.com/originals/15/26/3f/15263f971e5b2b99e49a9855f4f810a0.jpg"
       },
@@ -18,7 +19,8 @@
     {
       "id": "what-is-technology",
       "slug":"what-is-technology",
-      "title": "What is technology ? - Purple Glib",
+      "title": "What is technology ?",
+      "metatitle": "What is technology ? - Purple Glib",
       "image":{
           "url":"https://i.pinimg.com/564x/fc/6a/11/fc6a11c3c1a1029b621c1b44f73684ab.jpg"
       },
